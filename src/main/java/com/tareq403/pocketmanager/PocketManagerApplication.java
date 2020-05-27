@@ -7,10 +7,10 @@ import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 @SpringBootApplication
-public class PocketmanagerApplication {
+public class PocketManagerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PocketmanagerApplication.class, args);
+        SpringApplication.run(PocketManagerApplication.class, args);
     }
 
     @Bean
